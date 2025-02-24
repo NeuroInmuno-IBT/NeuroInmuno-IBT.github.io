@@ -1,6 +1,6 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
+title: NeuroInmuno-IBt
+email: 
 description: Academic webpage for the Neuroimmunobiology lab at IBT-UNAM
 baseurl: ""
 url: "https://neuroinmuno-ibt.github.io"
@@ -12,17 +12,18 @@ url: "https://neuroinmuno-ibt.github.io"
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Neuroimmunobiology lab,<br/>
+  Instituto de Biotecnología (IBt), <br/>
+  Universidad Nacional Autónoma de México (UNAM).
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Instituto de Biotecnología (IBt)<br/>
+  Av. Universidad 2001, Chamilpa,<br/>
+  Cuernavaca, Morelos, 62210
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+  <a href="mailto:gustavo.pedraza@ibt.unam.mx" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact via email</a> <br/>
+  <a href="mailto:leonor.perez@ibt.unam.mx" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact via email</a> <br/>
   <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
