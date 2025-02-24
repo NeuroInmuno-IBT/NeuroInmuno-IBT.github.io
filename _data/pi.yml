@@ -3,8 +3,8 @@
   info: Investigadora Titular C Tiempo Completo, Instituto de Biotecnología, UNAM 
   email: leonor.perez@ibt.unam.mx
   github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  researchgate: https://www.researchgate.net/scientific-contributions/Leonor-Perez-Martinez-9829828
+  scholar: https://scholar.google.com
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
@@ -15,15 +15,15 @@
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["Ph.D. Cell biology, Friedrich Miescher Institute"]
 
 - name: Dr. Martin Gustavo Pedraza Alva
   photo: headshot_GPA.jpg
   info: Investigador Titular B Tiempo Completo, Instituto de Biotecnología, UNAM
   email: gustavo.pedraza@ibt.unam.mx
   github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  researchgate: https://www.researchgate.net/profile/Gustavo-Pedraza-Alva
+  scholar: https://scholar.google.com
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
@@ -34,5 +34,5 @@
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["Ph.D. Biochemistry, Friedrich Miescher Institute"]
 
