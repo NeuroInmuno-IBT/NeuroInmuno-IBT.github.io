@@ -1,0 +1,16 @@
+- name: Dra. Nohemi Adriana Camacho Concha
+  photo: headshot_NCC.jpg
+  info: Investigadora Asociada C Tiempo Completo, Instituto de Biotecnología, UNAM 
+  email: nohemi.camacho@ibt.unam.mx
+  github: https://github.com/NeuroInmuno-IBT
+  researchgate: https://www.researchgate.net/scientific-contributions/Nohemi-Camacho-Concha-2037407355
+  scholar: https://scholar.google.com
+  cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "Doctorado, con especialidad en Bioquímica. Depto de Bioquímica, CINVESTAV-IPN"
+    ]
+
+  educationshort:
+    ["Ph.D. Biochemistry, CINVESTAV-IPN"]
