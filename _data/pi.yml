@@ -1,7 +1,7 @@
-- name: Dr. Richard Feynman
+- name: Dra. Leonor Perez Martinez
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
+  info: Investigadora Titular C Tiempo Completo, Instituto de Biotecnología, UNAM 
+  email: leonor.perez@ibt.unam.mx
   github: https://github.com/
   researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
@@ -9,9 +9,30 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "Doctorado, Biología Celular, Instituto Friedrich Miescher, Basilea",
+      "Maestría, en Ciencias, Instituto Weizmann de Ciencia, Israel (1988)",
+      "Licenciatura, Biología, Fac. de Ciencias-UNAM (1986)"
     ]
 
   educationshort:
     ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+
+- name: Dr. Martin Gustavo Pedraza Alva
+  photo: headshot.jpg
+  info: Investigador Titular B Tiempo Completo, Instituto de Biotecnología, UNAM
+  email: gustavo.pedraza@ibt.unam.mx
+  github: https://github.com/
+  researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "Doctorado, en Bioquímica, en el Instituto Friedrich Miescher, Suiza (1993)",
+      "Maestría, en Ciencias, El Instituto de Ciencia Weizmann, Israel (1988)",
+      "Licenciatura, Biología, Fac. de Ciencias-UNAM (1986)"
+    ]
+
+  educationshort:
+    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+
