@@ -1,5 +1,5 @@
 - name: Dra. Leonor Perez Martinez
-  photo: headshot_LPM.jpg
+  photo: headshots/headshot_LPM.jpg
   info: Investigadora Titular C Tiempo Completo, Instituto de Biotecnología, UNAM 
   email: leonor.perez@ibt.unam.mx
   github: https://github.com/NeuroInmuno-IBT
@@ -18,7 +18,7 @@
     ["Ph.D. Cell biology, Friedrich Miescher Institute"]
 
 - name: Dr. Martin Gustavo Pedraza Alva
-  photo: headshot_GPA.jpg
+  photo: headshots/headshot_GPA.jpg
   info: Investigador Titular B Tiempo Completo, Instituto de Biotecnología, UNAM
   email: gustavo.pedraza@ibt.unam.mx
   github: https://github.com/NeuroInmuno-IBT

@@ -1,19 +1,19 @@
 - name: Dra. Hilda Cecilia Leyva Sanchez
-  photo: rock.jpg
+  photo: headshots/headshot_HLS.jpg
   info: Postdoctoral researcher (CONAHCyT)
   email: hilda.leyva@ibt.unam.mx
+  website: https://website.com
+
+- name: Martha Pérez Domínguez
+  photo: headshots/headshot_MPD.jpg
+  info: Postdoctoral researcher (DGAPA)
+  email: martha.perez@ibt.unam.mx
   website: https://website.com
 
 - name: Dra. Elaheh Mirzaeicheshmeh
   photo: rock.jpg
   info: Postdoctoral researcher (DGAPA)
   email: elaheh.mirzaeicheshmeh@ibt.unam.mx
-  website: https://website.com
-
-- name: Martha Pérez Domínguez
-  photo: rock.jpg
-  info: Postdoctoral researcher (DGAPA)
-  email: martha.perez@ibt.unam.mx
   website: https://website.com
 
 - name: Example student name

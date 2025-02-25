@@ -7,7 +7,6 @@ permalink: /team/
 
 ## Team
 
-**We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## PIs
 
@@ -147,3 +146,8 @@ permalink: /team/
 ## Administrative Support
 
 <a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+
+
+
+
+**Interested in joining the group?** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**

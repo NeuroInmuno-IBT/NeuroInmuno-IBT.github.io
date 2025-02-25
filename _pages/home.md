@@ -7,19 +7,19 @@ permalink: /
 
 ### Welcome!
 
-INSERT INTRODUCTION HERE
+The Neuroimmunobiology lab at IBT-UNAM
 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/BrainWords.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/banner.png" width="100%"/><br/>
 </center>
 </div>
 </div>
 <br/>
 
-### About us
+### Our work
 
-INSERT DESCRIPTION OF GOUPS WORK
+- Molecular mechanisms that activate and regulate inflammation in the central nervous system
+- Molecular mechanisms that regulate pathogen-host-cell interaction, and the development of infectious disease
+- Molecular mechanisms that control neuronal diferentiation
