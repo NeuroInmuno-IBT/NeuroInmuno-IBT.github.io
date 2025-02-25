@@ -7,7 +7,7 @@ permalink: /
 
 ### Welcome!
 
-The Neuroimmunobiology lab at IBT-UNAM
+The Neuroimmunobiology lab at IBT-UNAM.
 
 <div class="container">
 <div class="row">
