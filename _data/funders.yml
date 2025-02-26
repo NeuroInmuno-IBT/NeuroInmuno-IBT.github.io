@@ -1,6 +1,6 @@
-- image: logo_unam.png
+- image: logos/logo_unam.png
   url: https://www.unam.mx/
-- image: logo_dgapa.png
+- image: logos/logo_dgapa.png
   url: https://dgapa.unam.mx/
-- image: logo_ibt.png
+- image: logos/logo_ibt.png
   url: https://www.ibt.unam.mx/

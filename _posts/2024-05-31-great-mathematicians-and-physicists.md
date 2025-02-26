@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Great Mathematicians and Physicists"
+title: "Test Blogpost 2"
 date: 2024-05-31
 categories: "Fun"
 ---
